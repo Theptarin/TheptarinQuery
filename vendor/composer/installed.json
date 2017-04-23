@@ -1,0 +1,29 @@
+[
+    {
+        "name": "rogeriopradoj/codeigniter",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rogeriopradoj/codeigniter-composer.git",
+            "reference": "b7531bf34347a8b37277a713a2e6cc28dba369e6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rogeriopradoj/codeigniter-composer/zipball/b7531bf34347a8b37277a713a2e6cc28dba369e6",
+            "reference": "b7531bf34347a8b37277a713a2e6cc28dba369e6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.4"
+        },
+        "time": "2014-11-03T11:33:53+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "OSL-3.0"
+        ],
+        "description": "A way to install CodeIgniter via composer"
+    }
+]

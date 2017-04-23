@@ -1,0 +1,13 @@
+{
+    "name": "vendor/theptarin-query",
+    "description": "Description of project TheptarinQuery.",
+    "authors": [
+        {
+            "name": "it",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "rogeriopradoj/codeigniter": "dev-master"
+    }
+}
